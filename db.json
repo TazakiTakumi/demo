@@ -1,16 +1,18 @@
 {
-  "data": [
-    {
-      "zaikoNo": "AAAAAAAAAA",
-      "okiba": "ABC12",
-      "maisu": 34,
-      "suryou": 8
-    },
-    {
-      "zaikoNo": "BBBBBBBBB",
-      "okiba": "EFD55",
-      "maisu": 21,
-      "suryou":2
-    }
-  ]
+  "list": {
+    "data": [
+      {
+        "zaikoNo": "AAAAAAAAAA",
+        "okiba": "ABC12",
+        "maisu": 34,
+        "suryou": 8
+      },
+      {
+        "zaikoNo": "BBBBBBBBB",
+        "okiba": "EFD55",
+        "maisu": 21,
+        "suryou":2
+      }
+    ]
+  }
 }
