@@ -18,6 +18,19 @@
         "okiba": "ADS22",
         "maisu": 1,
         "suryou": 3
+      },
+      {
+        "denpyoNo": "1923055028500",
+        "syukkaZaiko": [
+          {
+            "zaikoNo": "1923055027008",
+            "suryou": 2
+          },
+          {
+            "zaikoNo": "9784798062228",
+            "suryou": 1
+          }
+        ]
       }
     ]
   }
