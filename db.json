@@ -2,17 +2,22 @@
   "list": {
     "data": [
       {
-        "denpyoNo": "1923055028500",
-        "syukkaZaiko": [
-          {
-            "zaikoNo": "1923055027008",
-            "suryou": 2
-          },
-          {
-            "zaikoNo": "9784798062228",
-            "suryou": 1
-          }
-        ]
+        "zaikoNo": "AAAAAAAAAA",
+        "okiba": "ABC12",
+        "maisu": 34,
+        "suryou": 8
+      },
+      {
+        "zaikoNo": "BBBBBBBBB",
+        "okiba": "EFD55",
+        "maisu": 21,
+        "suryou": 2
+      },
+      {
+        "zaikoNo": "1923055028500",
+        "okiba": "ADS22",
+        "maisu": 1,
+        "suryou": 3
       }
     ]
   }
