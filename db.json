@@ -2,13 +2,13 @@
   "list": {
     "data": [
       {
-        "zaikoNo": "1923055028500",
+        "kakouNo": "1923055028500",
         "koutei": 0,
         "maisu": 10,
         "jisseki": true
       },
       {
-        "zaikoNo": "9784798176130",
+        "kakouNo": "9784798176130",
         "koutei": 1,
         "maisu": 23,
         "jisseki": false
